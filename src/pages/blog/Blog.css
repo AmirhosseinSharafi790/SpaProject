@@ -1,0 +1,17 @@
+.BlogWrapper {
+  text-align: center;
+}
+.btn-blog {
+  all: unset;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 500px 20px;
+  border: 2px solid rgba(0, 166, 255, 0.555);
+  background-color: rgba(211, 211, 211, 0.622);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn-blog:hover {
+  transition: all 0.3s;
+  background-color: #fff;
+}

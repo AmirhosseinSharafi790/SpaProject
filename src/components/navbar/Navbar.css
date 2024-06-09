@@ -1,0 +1,8 @@
+.bg-navbar,
+.offcanvas-body,
+.offcanvas-header {
+  background-color: #e0c198;
+}
+.active {
+  border-bottom: 2px solid black;
+}
